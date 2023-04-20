@@ -27,17 +27,18 @@
     margin: 0px;
     padding: 0px;
 }
-.container-fluid{
+.main{
     margin:0px;
     padding: 0px;
+    width: 100vh;
 }
-.main-body{
+aside{
     height: 80vh;
     text-align: center;
     align-items: center;
     background-color:#B4F8C8;
 }
-.footer{
+footer{
     text-align: center;
     
     height: 20vh;
