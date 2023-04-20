@@ -10,15 +10,13 @@
     color:black;
     background-color:#FFAEBC;
 }
-.container{
+.content{
     height: 100vh;
     display:flex;
-    margin: 0px;
-    padding: 0px;
 }
 .navigation{
     height:100vh;
-    width: 20vh;
+    width: 10%;
     background-color:#FBE7C6;
 }
 .body{
@@ -28,12 +26,10 @@
     padding: 0px;
 }
 .main{
-    margin:0px;
-    padding: 0px;
-    width: 100vh;
+    width: 100%;
 }
 aside{
-    height: 80vh;
+    height: 90vh;
     text-align: center;
     align-items: center;
     background-color:#B4F8C8;
@@ -41,7 +37,7 @@ aside{
 footer{
     text-align: center;
     
-    height: 20vh;
+    height: 10vh;
     background-color: #A0E7E5;
 }
 .nav{
