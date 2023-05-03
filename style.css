@@ -107,7 +107,7 @@ footer {
     right: 100px;
     display: block;
     width: 800px;
-    height: 120px;
+    height: 100px;
     overflow: hidden;
     border-bottom: 3px solid #fff;
     color: #fff;
@@ -137,12 +137,12 @@ footer {
     border-radius: 50%;
     height: 20px;
     box-shadow: 
-      0 0 0 50px #4DB6AC,
-      -20px 0 0 20px #4DB6AC,
-      -90px 0 0 50px #4DB6AC,
-      250px 0 0 50px #4DB6AC,
-      290px 0 0 50px #4DB6AC,
-      620px 0 0 50px #4DB6AC;
+      0 0 0 50px #37BEB0,
+      -20px 0 0 20px #37BEB0,
+      -90px 0 0 50px #37BEB0,
+      250px 0 0 50px #37BEB0,
+      290px 0 0 50px #37BEB0,
+      620px 0 0 50px #37BEB0;
     animation: hill 4s 2s linear infinite;
   }
   .tree, .tree:nth-child(2), .tree:nth-child(3) {
