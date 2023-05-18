@@ -258,7 +258,7 @@ footer {
   height: 60px;
   width: 60px;
   border-radius: 50%;
-  margin-top: 50px;
+  margin-top: 70px;
   margin-right: 60px;
   box-shadow: 5px 5px 30px rgba(0,0,0,.2);
   transition: all 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
@@ -334,4 +334,23 @@ footer {
 }
 .search-box .search-data.active{
   display: none;
+}
+.fa-brands{
+ margin: 30px 0 0 30px;
+ size: 100px;
+}
+.fa-facebook:hover{
+ color: 	#4267B2;
+}
+.fa-instagram:hover{
+  color: #feda75;
+}
+.fa-youtube:hover{
+  color: red;
+}
+.fa-tiktok:hover{
+  color: #00f2ea;
+}
+.fa-linkedin:hover{
+  color: #0A66C2;
 }
