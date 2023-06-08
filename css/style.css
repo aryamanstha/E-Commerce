@@ -83,7 +83,7 @@ footer {
     font-family: 'Ubuntu', sans-serif;
     font-size: 1rem;
     margin: 0 10px 20px 10px;
-    padding: 30px;
+    padding: 20px;
     border-radius: 0 30px 0 30px;
     font-weight: bolder;
 }
@@ -354,8 +354,9 @@ footer {
   color: #0A66C2;
 }
 .carousel-item{
-  height: 40vh;
+  height: 70vh;
 }
 .carousel-item img{
-  height: 40vh;
+  height: 70vh;
 }
+#more {display: none;}
