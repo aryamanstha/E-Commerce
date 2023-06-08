@@ -45,7 +45,7 @@ h2{
 }
 
 .navigation {
-    height: 85vh;
+    height: 250vh;
     width: 20%;
     background-color: #ff4c68;
     border-radius: 0 0 0 40px;
@@ -64,9 +64,8 @@ aside {
 
 footer {
     text-align: center;
-
-    height: 15vh;
-    background-color: #D8A7B1;
+    background-color:#37BEB0;
+   
 }
 
 .nav {
@@ -360,3 +359,39 @@ footer {
   height: 70vh;
 }
 #more {display: none;}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  width: 300px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+  font-family: arial;
+}
+.card img{
+  height: 300px;
+}
+
+.price {
+  color: grey;
+  font-size: 22px;
+}
+
+.card button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+.card button:hover {
+  opacity: 0.7;
+}
+.flex-container{
+  display: flex;
+}
